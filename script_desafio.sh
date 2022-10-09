@@ -1,5 +1,3 @@
-nano iacl.sh
-
 #!/bin/bash
 
 echo "Criando diretórios"
